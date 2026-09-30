@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+# données personnelles d'inscrits (RGPD)
+inscriptions_export*
+*.csv
+# fichiers temporaires Office
+~$*
+.DS_Store
+Thumbs.db
