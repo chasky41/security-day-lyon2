@@ -21,6 +21,6 @@ Journée cybersécurité organisée par le Master OPSIE, Université Lumière Ly
 
 ## Règles
 
-- Dépôt **privé** : ne pas partager le lien hors de l'équipe.
-- Ne jamais commiter les flags du CTF ni les write-ups hors du dossier `ctf/` privé.
-- Pas de mots de passe, clés ou données personnelles d'inscrits dans le dépôt.
+- Dépôt **public** : tout ce qui est poussé ici est visible par tout le monde.
+- **Ne jamais commiter** les flags du CTF, les write-ups, les accès CTFd ou les solutions des challenges : ils restent hors du dépôt, dans un espace privé de l'équipe.
+- Pas de mots de passe, clés, tokens ni données personnelles d'inscrits dans le dépôt.
